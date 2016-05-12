@@ -1,5 +1,5 @@
-# Current Version 69.2
-# = prev + dd(Google) + dd(OneDrive) + d(Facebook)
+# Current Version 70
+# = prev + d(Wikipedia)
 # Newest Version http://go.netsh.org/link/gethosts
 ::1   localhost
 fe80::1%lo0    localhost
@@ -4717,16 +4717,16 @@ fe80::1%lo0    localhost
 # END gseyt
 
 # Wikipedia
-91.198.174.202    bits.wikimedia.org
+91.198.174.192    bits.wikimedia.org
 91.198.174.192    wikipedia.org
 91.198.174.192    www.wikipedia.org
-91.198.174.204    en.m.wikipedia.org
-91.198.174.204    zh.m.wikipedia.org
-91.198.174.204    fr.m.wikipedia.org
-91.198.174.204    es.m.wikipedia.org
-91.198.174.204    it.m.wikipedia.org
-91.198.174.204    ja.m.wikipedia.org
-91.198.174.204    de.m.wikipedia.org
+91.198.174.192    en.m.wikipedia.org
+91.198.174.192    zh.m.wikipedia.org
+91.198.174.192    fr.m.wikipedia.org
+91.198.174.192    es.m.wikipedia.org
+91.198.174.192    it.m.wikipedia.org
+91.198.174.192    ja.m.wikipedia.org
+91.198.174.192    de.m.wikipedia.org
 91.198.174.192    en.wikipedia.org
 91.198.174.192    zh.wikipedia.org
 91.198.174.192    fr.wikipedia.org
@@ -4787,17 +4787,19 @@ fe80::1%lo0    localhost
 91.198.174.192    www.wikimediafoundation.org
 91.198.174.192    mediawiki.org
 91.198.174.192    www.mediawiki.org
-208.80.154.241    bugs.wikimedia.org
-208.80.154.241    bugzilla.wikimedia.org
-208.80.154.241    noc.wikimedia.org
-208.80.154.241    stats.wikimedia.org
+91.198.174.217    bugs.wikimedia.org
+91.198.174.217    bugzilla.wikimedia.org
+91.198.174.217    noc.wikimedia.org
+91.198.174.217    stats.wikimedia.org
+91.198.174.217    ticket.wikimedia.org
+
 208.80.154.11    dumps.wikimedia.org
 208.80.154.11    download.wikimedia.org
-208.80.154.146    ticket.wikimedia.org
 91.198.174.208    upload.wikimedia.org
-208.80.154.160    irc.wikimedia.org
+208.80.153.44	   irc.wikimedia.org
 208.80.154.53    ganglia.wikimedia.org
 # END wk
+
 # Facebook
 # Please DO NOT Share/Publish Facebook hosts
 
